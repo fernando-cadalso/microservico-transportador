@@ -6,3 +6,4 @@ spring:
   cloud:
     config:
       uri: https://config-server-cadalso.herokuapp.com
+#      uri: http://localhost:8888

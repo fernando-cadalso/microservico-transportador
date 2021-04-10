@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: 'transportador'
+  profiles:
+    active: default
+  cloud:
+    config:
+      uri: https://config-server-cadalso.herokuapp.com
+#      uri: http://localhost:8888
